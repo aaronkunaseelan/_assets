@@ -1,7 +1,7 @@
 # AGENTS.md
 
-Plain-Markdown article store. No build, no site, no dependencies — the files are the
-product. Keep it that way: don't add tooling, front matter, or config.
+Article store. No build, no site, no dependencies. Don't add tooling, front matter, or config.
+
 
 ## Layout
 
@@ -11,19 +11,19 @@ product. Keep it that way: don't add tooling, front matter, or config.
 ## Article format
 
 - Filename: lowercase-hyphenated slug of the title, `.md`. No date prefix.
-- Line 1 is `# Title`. Line 2 is blank. Nothing above the H1.
-- No date line, no `(N words)` line, no metadata block.
+- 
+- Line 1 is `# Title`.
+  line 2 : `(N words)` , last edited: yyyy.mm.dd morning, afternoon, or evening
+- Line 3 is blank. Nothing above the H1.
+-  no metadata block.
 - LF endings, trailing newline. Body Markdown is untouched — hard-wrap breaks,
   escaped headings, and tables stay as they came.
-
 Heading depth below the H1 varies by article. Don't normalize it.
 
 ## Commits
 
-Commit message is the article's date, `YYYY-MM-DD` — not a summary. One article per
+Commit message is the commit's date, `YYYY-MM-DD`, published date, source, the last line is 'tags: .." and includes things like subject, the model that generated it, publisher, original format etc . One article per
 commit.
-
-## Publishing
 
 There is usually no local checkout. Commit through the API:
 
@@ -33,4 +33,3 @@ gh api --method PUT repos/05802/_assets/contents/posts/<slug>.md \
   -f content="$(base64 -w0 <file>)"
 ```
 
-Read the last few commits first — they are the reference for the conventions above.
