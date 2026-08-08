@@ -2,4 +2,4 @@ No copyright claimed.
 
 ---
 
-Contact: aaronkuna gmail com
+aaronkuna gmail com
