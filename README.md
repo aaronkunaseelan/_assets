@@ -1,5 +1,3 @@
-# _assets
-
 No copyright claimed.
 
 ---
