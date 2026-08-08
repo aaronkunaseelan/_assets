@@ -1,8 +1,5 @@
 # Electronics through copper
 
-2025-11-15
-(1783 words) 
-
 Short version:  
 Almost every modern electrical/electronic system is “moving electrons through copper.” I’ll first map out who uses it and where, then walk through what *could* beat copper in specific ways (conductivity, loss, weight, cost, data rate, etc.).
 
