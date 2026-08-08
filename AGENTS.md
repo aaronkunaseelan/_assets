@@ -31,13 +31,11 @@ Lowercase-hyphenated slug of the title, no date prefix:
 
 ## Commits
 
-One article per commit. Line 1 is the commit's date; `tags:` comes last — subject,
-model, publisher, original format.
+One article per commit. Line 1 is free form — source, published date, whatever is
+known. Line 2 is `tags:` — subject, model, publisher, original format.
 
 ```
-2026-08-08
-published: 2025-11-15
-source: https://www.ft.com/content/1f3e5472
+published: 2025-11-15, source: https://www.ft.com/content/1f3e5472
 tags: electronics, claude-opus-5, ft, google-docs
 ```
 
