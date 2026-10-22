@@ -1,0 +1,183 @@
+{
+ "schemaVersion": 2,
+ "generatedAt": "2026-10-03T18:52:35.771493Z",
+ "slug": "undated-mp3-telegram-dde7ab17210a",
+ "title": "how to build a policy school.mp3",
+ "source": {
+  "publishedAt": null,
+  "dateBasis": "unknown",
+  "sourceUrl": null,
+  "durationSeconds": 0
+ },
+ "artifacts": {
+  "mp3Url": "https://rss-edge.05802.workers.dev/audio/episodes/undated-mp3-telegram-dde7ab17210a.mp3",
+  "scriptUrl": "https://rss-edge.05802.workers.dev/audio/episodes/undated-mp3-telegram-dde7ab17210a.script.md",
+  "notesUrl": "https://rss-edge.05802.workers.dev/audio/episodes/undated-mp3-telegram-dde7ab17210a.notes.md"
+ },
+ "script": {
+  "paragraphs": 173,
+  "words": 10191,
+  "streamSha256": "bff6acbd452013dc2e1cf1431f0e5c65b0e82610152bf0f4219f749c4830a545",
+  "scriptSha256": "bff6acbd452013dc2e1cf1431f0e5c65b0e82610152bf0f4219f749c4830a545",
+  "sttModel": "mini",
+  "contentOrigin": "stt_transcript"
+ },
+ "transcript": {
+  "paragraphs": 173,
+  "words": 10191,
+  "streamSha256": "bff6acbd452013dc2e1cf1431f0e5c65b0e82610152bf0f4219f749c4830a545",
+  "sttModel": "mini",
+  "scriptSha256": "bff6acbd452013dc2e1cf1431f0e5c65b0e82610152bf0f4219f749c4830a545"
+ },
+ "analysis": {
+  "roles": {
+   "topics": "transcript_topics",
+   "mentions": "transcript_mentions"
+  },
+  "topicOrigin": "luna_topics",
+  "summaryOrigin": "luna_summary",
+  "topics": [
+   {
+    "heading": "Howell’s Return and Earlier Book Discussion",
+    "startParagraphId": "p00001",
+    "endParagraphId": "p00004"
+   },
+   {
+    "heading": "Johns Hopkins’ New School of Government and Policy",
+    "startParagraphId": "p00005",
+    "endParagraphId": "p00008"
+   },
+   {
+    "heading": "Accountability in Building a New School",
+    "startParagraphId": "p00009",
+    "endParagraphId": "p00017"
+   },
+   {
+    "heading": "Origins of the MPP–MPA Division",
+    "startParagraphId": "p00018",
+    "endParagraphId": "p00028"
+   },
+   {
+    "heading": "Why the Traditional Policy-Administration Model Falls Short",
+    "startParagraphId": "p00029",
+    "endParagraphId": "p00034"
+   },
+   {
+    "heading": "Administrative-State Growth and Political Disruption",
+    "startParagraphId": "p00035",
+    "endParagraphId": "p00042"
+   },
+   {
+    "heading": "Limits of Conventional Policy Training",
+    "startParagraphId": "p00043",
+    "endParagraphId": "p00048"
+   },
+   {
+    "heading": "SGP’s Curriculum and Institutional Problem-Solving",
+    "startParagraphId": "p00049",
+    "endParagraphId": "p00059"
+   },
+   {
+    "heading": "Evidence-Based Policy and Institutional Learning",
+    "startParagraphId": "p00060",
+    "endParagraphId": "p00072"
+   },
+   {
+    "heading": "Higher-Education Inertia and New Institutional Design",
+    "startParagraphId": "p00073",
+    "endParagraphId": "p00090"
+   },
+   {
+    "heading": "Civil-Service Careers and Political Institutional Renewal",
+    "startParagraphId": "p00091",
+    "endParagraphId": "p00100"
+   },
+   {
+    "heading": "Pluralism and Constitutional Commitments",
+    "startParagraphId": "p00101",
+    "endParagraphId": "p00103"
+   },
+   {
+    "heading": "Tenure and Measures of Academic Impact",
+    "startParagraphId": "p00104",
+    "endParagraphId": "p00118"
+   },
+   {
+    "heading": "Broader Academic Impact and Interdisciplinary Scholarship",
+    "startParagraphId": "p00119",
+    "endParagraphId": "p00124"
+   },
+   {
+    "heading": "Risks of Interdisciplinary Policy Education",
+    "startParagraphId": "p00125",
+    "endParagraphId": "p00131"
+   },
+   {
+    "heading": "Academic-Practitioner Collaboration",
+    "startParagraphId": "p00132",
+    "endParagraphId": "p00135"
+   },
+   {
+    "heading": "Disciplines for Institutional Reform",
+    "startParagraphId": "p00136",
+    "endParagraphId": "p00140"
+   },
+   {
+    "heading": "Historical Reasoning in Policy Reform",
+    "startParagraphId": "p00141",
+    "endParagraphId": "p00149"
+   },
+   {
+    "heading": "AI Expertise and Government",
+    "startParagraphId": "p00150",
+    "endParagraphId": "p00153"
+   },
+   {
+    "heading": "Risks in Building the School",
+    "startParagraphId": "p00154",
+    "endParagraphId": "p00164"
+   },
+   {
+    "heading": "Five-Year Success and Long-Term Outcomes",
+    "startParagraphId": "p00165",
+    "endParagraphId": "p00173"
+   }
+  ],
+  "mentionCount": 40
+ },
+ "gates": {
+  "script": {
+   "ok": true,
+   "sha256": "bff6acbd452013dc2e1cf1431f0e5c65b0e82610152bf0f4219f749c4830a545",
+   "origin": "stt_transcript"
+  },
+  "topics": {
+   "ok": true,
+   "errors": [],
+   "notes": [
+    "summary is 1203 chars against a 900-char target (not enforced)"
+   ],
+   "stats": {
+    "topics": 21,
+    "summaryChars": 1203,
+    "summaryTargetChars": 900
+   },
+   "durationSeconds": 120.9
+  },
+  "mentions": {
+   "ok": true,
+   "errors": [],
+   "notes": [
+    "topic[7]: dropped 'Department of Education', evidenceQuote not found verbatim in p00054"
+   ],
+   "stats": {
+    "mentionsReturned": 41,
+    "mentionsKept": 40,
+    "mentionsDropped": 1,
+    "keepRate": 0.976
+   },
+   "durationSeconds": 83.3
+  }
+ },
+ "disclaimer": "Summary, topic headings, and reference notes are machine-generated from the transcript. Evidence quotes prove only that words occur in the script; the script is unmodified speech-to-text output."
+}
