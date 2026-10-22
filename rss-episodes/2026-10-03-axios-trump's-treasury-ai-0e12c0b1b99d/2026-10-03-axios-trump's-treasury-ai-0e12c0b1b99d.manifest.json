@@ -1,0 +1,247 @@
+{
+ "schemaVersion": 2,
+ "generatedAt": "2026-10-03T18:42:29.953991Z",
+ "slug": "2026-10-03-axios-trump's-treasury-ai-0e12c0b1b99d",
+ "title": "Trump's Treasury chief on prices, AI and Iran | The Axios Show",
+ "source": {
+  "publishedAt": "2026-10-03",
+  "dateBasis": "extractor_upload_date",
+  "sourceUrl": "https://www.youtube.com/watch?v=NKPvU0Xj5ss",
+  "durationSeconds": 2544
+ },
+ "artifacts": {
+  "mp3Url": "https://rss-edge.05802.workers.dev/audio/episodes/2026-10-03-axios-trump's-treasury-ai-0e12c0b1b99d.mp3",
+  "scriptUrl": "https://rss-edge.05802.workers.dev/audio/episodes/2026-10-03-axios-trump's-treasury-ai-0e12c0b1b99d.script.md",
+  "notesUrl": "https://rss-edge.05802.workers.dev/audio/episodes/2026-10-03-axios-trump's-treasury-ai-0e12c0b1b99d.notes.md"
+ },
+ "script": {
+  "paragraphs": 131,
+  "words": 6387,
+  "streamSha256": "c9df8b598cf60bc77dae11e0f386eb3859455b6a7400c4b2a10f88e83b1d8749",
+  "scriptSha256": "c9df8b598cf60bc77dae11e0f386eb3859455b6a7400c4b2a10f88e83b1d8749",
+  "sttModel": "mini",
+  "contentOrigin": "stt_transcript"
+ },
+ "transcript": {
+  "paragraphs": 131,
+  "words": 6387,
+  "streamSha256": "c9df8b598cf60bc77dae11e0f386eb3859455b6a7400c4b2a10f88e83b1d8749",
+  "sttModel": "mini",
+  "scriptSha256": "c9df8b598cf60bc77dae11e0f386eb3859455b6a7400c4b2a10f88e83b1d8749"
+ },
+ "analysis": {
+  "roles": {
+   "topics": "transcript_topics",
+   "mentions": "transcript_mentions"
+  },
+  "topicOrigin": "luna_topics",
+  "summaryOrigin": "luna_summary",
+  "topics": [
+   {
+    "heading": "Interview Teaser Quotes",
+    "startParagraphId": "p00001",
+    "endParagraphId": "p00001"
+   },
+   {
+    "heading": "Cash Room Guest Welcome",
+    "startParagraphId": "p00002",
+    "endParagraphId": "p00002"
+   },
+   {
+    "heading": "Treasury Building History",
+    "startParagraphId": "p00003",
+    "endParagraphId": "p00004"
+   },
+   {
+    "heading": "Interview Ground Rules",
+    "startParagraphId": "p00005",
+    "endParagraphId": "p00005"
+   },
+   {
+    "heading": "Headline and Grocery Inflation",
+    "startParagraphId": "p00006",
+    "endParagraphId": "p00010"
+   },
+   {
+    "heading": "Household Spending and Wage Gains",
+    "startParagraphId": "p00011",
+    "endParagraphId": "p00015"
+   },
+   {
+    "heading": "Energy Shock and Manufacturing Jobs",
+    "startParagraphId": "p00016",
+    "endParagraphId": "p00017"
+   },
+   {
+    "heading": "Iran Conflict Strategy and Sequencing",
+    "startParagraphId": "p00018",
+    "endParagraphId": "p00022"
+   },
+   {
+    "heading": "Iranian Military Campaign and Oil Blockade",
+    "startParagraphId": "p00023",
+    "endParagraphId": "p00024"
+   },
+   {
+    "heading": "AI Investment and Bubble Risk",
+    "startParagraphId": "p00025",
+    "endParagraphId": "p00029"
+   },
+   {
+    "heading": "AI Competition and Model Safety",
+    "startParagraphId": "p00030",
+    "endParagraphId": "p00042"
+   },
+   {
+    "heading": "Financial-System Cyber Resilience",
+    "startParagraphId": "p00043",
+    "endParagraphId": "p00046"
+   },
+   {
+    "heading": "AI Oversight and Product Liability",
+    "startParagraphId": "p00047",
+    "endParagraphId": "p00054"
+   },
+   {
+    "heading": "AI-Enabled Jobs and Small Businesses",
+    "startParagraphId": "p00055",
+    "endParagraphId": "p00059"
+   },
+   {
+    "heading": "AI Productivity and Inflation",
+    "startParagraphId": "p00060",
+    "endParagraphId": "p00061"
+   },
+   {
+    "heading": "House Metaphor and Market Reaction",
+    "startParagraphId": "p00062",
+    "endParagraphId": "p00067"
+   },
+   {
+    "heading": "Global Bond Yields and Treasury Signals",
+    "startParagraphId": "p00068",
+    "endParagraphId": "p00070"
+   },
+   {
+    "heading": "Argentina Market Intervention",
+    "startParagraphId": "p00071",
+    "endParagraphId": "p00073"
+   },
+   {
+    "heading": "Fed Chair Selection and Kevin Warsh",
+    "startParagraphId": "p00074",
+    "endParagraphId": "p00079"
+   },
+   {
+    "heading": "Treasury-Fed Working Relationship",
+    "startParagraphId": "p00080",
+    "endParagraphId": "p00083"
+   },
+   {
+    "heading": "Political Affiliations and Donor History",
+    "startParagraphId": "p00084",
+    "endParagraphId": "p00086"
+   },
+   {
+    "heading": "South Carolina Roots and Main Street Politics",
+    "startParagraphId": "p00087",
+    "endParagraphId": "p00090"
+   },
+   {
+    "heading": "Private-Sector Management at Treasury",
+    "startParagraphId": "p00091",
+    "endParagraphId": "p00096"
+   },
+   {
+    "heading": "Treasury Career Staff and Performance",
+    "startParagraphId": "p00097",
+    "endParagraphId": "p00100"
+   },
+   {
+    "heading": "Trump Account Enrollment and Financial Access",
+    "startParagraphId": "p00101",
+    "endParagraphId": "p00105"
+   },
+   {
+    "heading": "Trump Account Philanthropy and Contributions",
+    "startParagraphId": "p00106",
+    "endParagraphId": "p00109"
+   },
+   {
+    "heading": "Cabinet Temperament and Confrontations",
+    "startParagraphId": "p00110",
+    "endParagraphId": "p00112"
+   },
+   {
+    "heading": "Hamiltonian Stand-Ground Metaphor",
+    "startParagraphId": "p00113",
+    "endParagraphId": "p00114"
+   },
+   {
+    "heading": "Childhood Work and Economic Insecurity",
+    "startParagraphId": "p00115",
+    "endParagraphId": "p00118"
+   },
+   {
+    "heading": "Tips, Overtime, and Tax-Bill Provisions",
+    "startParagraphId": "p00119",
+    "endParagraphId": "p00122"
+   },
+   {
+    "heading": "Sexual Orientation and Career Choices",
+    "startParagraphId": "p00123",
+    "endParagraphId": "p00125"
+   },
+   {
+    "heading": "Elon Musk Disagreement and Reconciliation",
+    "startParagraphId": "p00126",
+    "endParagraphId": "p00129"
+   },
+   {
+    "heading": "Cash Room Interview Closing",
+    "startParagraphId": "p00130",
+    "endParagraphId": "p00131"
+   }
+  ],
+  "mentionCount": 141
+ },
+ "gates": {
+  "script": {
+   "ok": true,
+   "sha256": "c9df8b598cf60bc77dae11e0f386eb3859455b6a7400c4b2a10f88e83b1d8749",
+   "origin": "stt_transcript"
+  },
+  "topics": {
+   "ok": true,
+   "errors": [],
+   "notes": [
+    "summary is 998 chars against a 900-char target (not enforced)"
+   ],
+   "stats": {
+    "topics": 33,
+    "summaryChars": 998,
+    "summaryTargetChars": 900
+   },
+   "durationSeconds": 272.4
+  },
+  "mentions": {
+   "ok": true,
+   "errors": [],
+   "notes": [
+    "topic[8]: dropped 'Iran', evidenceQuote not found verbatim in p00023",
+    "topic[12]: dropped 'President Trump', evidenceQuote not found verbatim in p00047",
+    "topic[13]: dropped 'IRS', evidenceQuote not found verbatim in p00057",
+    "topic[19]: dropped 'Jay Powell', evidenceQuote not found verbatim in p00081",
+    "topic[31]: dropped 'Mars', evidenceQuote not found verbatim in p00129"
+   ],
+   "stats": {
+    "mentionsReturned": 146,
+    "mentionsKept": 141,
+    "mentionsDropped": 5,
+    "keepRate": 0.966
+   },
+   "durationSeconds": 376.8
+  }
+ },
+ "disclaimer": "Summary, topic headings, and reference notes are machine-generated from the transcript. Evidence quotes prove only that words occur in the script; the script is unmodified speech-to-text output."
+}
