@@ -5,6 +5,7 @@ Article store. No build, no dependencies. Don't add tooling, front matter, or co
 ## Layout
 
 - `posts/` — one article per file.
+- `rss-episodes/<slug>/` — example podcast episode pages from tg-tools (notes and manifest, no audio).
 - `README.md` — leave it alone.
 
 ## Article format
